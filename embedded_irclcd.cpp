@@ -24,7 +24,7 @@ long timeoutCounter;
 void setup() {
   
   /* Setup timeouttext */
-    char textRow0[21];
+  char textRow0[21];
   char textRow1[21];
   char textRow2[21];
   char textRow3[21];
